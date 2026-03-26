@@ -1,6 +1,6 @@
 {
-  "name": "PhoenixClini System",
-  "short_name": "PhoenixClini",
+  "name": "PhoenixClinic System",
+  "short_name": "PhoenixClinic",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
